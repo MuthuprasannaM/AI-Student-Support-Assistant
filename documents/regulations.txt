@@ -1,0 +1,3 @@
+Attendance Policy: Students must maintain a minimum of 75% attendance in each course to be eligible to sit for end-semester examinations. Condonation is permitted up to 65% on medical grounds with valid documentation.
+Grading Scale: Grade O (Outstanding) is 90% and above. Grade A+ is 80-89%. Grade A is 70-79%. Minimum passing grade is 50% (Grade C). Anything below 50% is a Fail (Grade F).
+Syllabus - CS201 Data Structures: Topics include Arrays, Linked Lists, Stacks, Queues, Binary Trees, Graph Traversals (BFS, DFS), and Dynamic Programming.
